@@ -1,2 +1,4 @@
-# ds
-Disjoint set data structure
+ds
+===============
+
+A simple disjoint sets data structure
