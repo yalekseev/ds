@@ -1,7 +1,7 @@
+#include "ds.h"
+
 #include <iostream>
 #include <cassert>
-
-#include "ds.h"
 
 int main() {
     util::disjoint_sets<> ds(10);
